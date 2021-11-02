@@ -1,4 +1,2 @@
-f line in project 
-London is capital of GB
-Moscow is the capital of Russia
+f line in project
 Paris  is the capital of France
